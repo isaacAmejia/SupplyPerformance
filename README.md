@@ -1,4 +1,8 @@
 # Supply Chain Performance Analysis
+
+Due to the large size of the final Excel document, the final workbook must be downloaded through this Google Drive link:
+https://drive.google.com/file/d/1jwe0e5C9Dl9IAV7VB6GCT_5g6IN3N16-/view?usp=sharing
+
 This project provides a comprehensive analysis of a supply chain dataset containing over 180,000 entries to assess and improve delivery performance. The dataset focuses on tracking delivery delays and categorizing shipments based on various factors such as product type, region, and shipping mode. By organizing the data into meaningful categories, the analysis enables users to quickly identify key trends and areas requiring attention to optimize supply chain operations.
 
 To begin, a "Late Deliveries" column and a "Delivery Delayed" flag were created to track shipments that took longer than expected. This allowed for a clear distinction between on-time and delayed deliveries. Pivot tables were then used to aggregate and analyze key metrics such as sales, average delay days, and the number of delayed shipments. The tables are interactive, allowing users to filter data by Category, Order Status, Order Region, and Shipping Mode. This filtering capability provides users with the flexibility to drill down into specific subsets of the data, making it easier to understand patterns and identify trouble spots in the supply chain.
