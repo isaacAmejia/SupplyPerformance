@@ -1,7 +1,7 @@
 # Supply Chain Performance Analysis
 
 Due to the large size of the final Excel document, the final workbook must be downloaded through this Google Drive link:
-https://drive.google.com/file/d/1jwe0e5C9Dl9IAV7VB6GCT_5g6IN3N16-/view?usp=sharing
+https://drive.google.com/file/d/1ql0g6nBqKFxh3S_nkVD7T10JFAm_NyQW/view?usp=sharing
 
 This project provides a comprehensive analysis of a supply chain dataset containing over 180,000 entries to assess and improve delivery performance. The dataset focuses on tracking delivery delays and categorizing shipments based on various factors such as product type, region, and shipping mode. By organizing the data into meaningful categories, the analysis enables users to quickly identify key trends and areas requiring attention to optimize supply chain operations.
 
